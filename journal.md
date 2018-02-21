@@ -1,6 +1,6 @@
 # Authors 
-Katy Walton
 John Smith
+Katy Walton
 
 # Title 
 Model- measurement comparison of aircraft measurements of secondary organic aerosol over West Africa.
