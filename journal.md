@@ -5,6 +5,9 @@ John Smith
 # Title 
 Model- measurement comparison of aircraft measurements of secondary organic aerosol over West Africa.
 
+# Abstact
+How do particles form from forest fire emissions?
+
 # Intro
 We present measurements of SOA blahhh. J. Bloggs et all already took some measurements, but they haven't answered all the scientific questions. Of course, J. Smith et al made some great measurements in the 1980s in this region.
 
