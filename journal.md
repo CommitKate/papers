@@ -19,3 +19,8 @@ We got valuable insight into the particle formation process.
 
 # Conclusions
 Aren't we great we found out some stuff.
+
+# Figures
+This is where the figures live
+- fig 1
+- fig 2
